@@ -1,0 +1,28 @@
+Origin: glial-iot.github.io/glial-nightly
+Label: glial-iot.github.io/glial-nightly
+Codename: stretch
+Date: Wed, 13 Feb 2019 19:16:10 UTC
+Architectures: armhf amd64
+Components: main
+Description: Glial experimental version
+MD5Sum:
+ 877c7fd941aaf4fae67cef0e1ba70a33 635 main/binary-armhf/Packages
+ 3fd537748e22136910d0a3e8f73ee4b2 445 main/binary-armhf/Packages.gz
+ edc237e8b91ae5adb33dee34926fa57a 159 main/binary-armhf/Release
+ db89cc1c574ddce2dcbebab39c81aa41 635 main/binary-amd64/Packages
+ 16283a896a8260c5a52135315acd7e9e 447 main/binary-amd64/Packages.gz
+ 4fbff812c0fb974e7b21c6e04279add6 159 main/binary-amd64/Release
+SHA1:
+ 96fc33fe6e682ae0492d43bcb4b56b09ae96adb6 635 main/binary-armhf/Packages
+ 752efa80a7d6a27e49d8f8a98db50f1e16e3085a 445 main/binary-armhf/Packages.gz
+ fdbd5797b03c36a98f287ab4727faf3a6b699dab 159 main/binary-armhf/Release
+ 867bc1eca04fdaa24ea56f4a7e64e77b35263ecd 635 main/binary-amd64/Packages
+ 3d0bad6e705d2a5d851375760f10b6541193de50 447 main/binary-amd64/Packages.gz
+ 42f78bcf835bc7bdf01cd798a537c7d4427683d2 159 main/binary-amd64/Release
+SHA256:
+ 5c1a021f5beeb44c18dac7adfca3f80459cf0704ad9b854068e7777de8a1ffb6 635 main/binary-armhf/Packages
+ f4071b639749a2e1843a9df84907b41caa23ee4975e7428d304ed58fefbc3db2 445 main/binary-armhf/Packages.gz
+ d3ee226d688513e9eae21fe04b24c25a105d15a298579513575c0368be19ac66 159 main/binary-armhf/Release
+ cbe7b47fa9f1a6b80cc7c87963b9c763df34ab5c630096f68b4c83779fb021cf 635 main/binary-amd64/Packages
+ e1b508a32c88b2405147f8efcd4868ff143049ba80c8a000e074a0b8615b9ba0 447 main/binary-amd64/Packages.gz
+ 4b75572a8d47dd5e2ff52252ddd36adf492102ef549a90eaa7d5ee23da01eef7 159 main/binary-amd64/Release
