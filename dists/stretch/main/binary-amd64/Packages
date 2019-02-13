@@ -3,10 +3,10 @@ Maintainer: vvzvlad <vvzvlad@gmail.com>
 Priority: optional
 Section: misc
 Filename: pool/main/g/glial/glial_0.74-5-g2a6cfc8-night_amd64.deb
-Size: 2235212
-SHA256: 63b934beaa17e14d530261d9d6586ab82e951c7239b748e21cfa1dfd2375e7f4
-SHA1: 435de821a88c8bfe9fdee22c1c00279b5f2c378e
-MD5sum: b4712e277c0a7f4dda442d26594bbece
+Size: 2235818
+SHA256: adbc606fe2021a13e0e966cf95a274f0779fbcd0e8489c2702cb26c6c7eec6dd
+SHA1: 0c18d10b4151e23ff9259380c978b3335ac060e8
+MD5sum: f24cd4dd676a0fc5d0e029a61580690d
 Description: IoT management system by Nokia IoT Lab
 Origin: Nokia IoT Laboratory <info@glial.pro>
 Depends: tarantool, libmosquitto-dev, tarantool-dev
