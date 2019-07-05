@@ -2,17 +2,17 @@ Package: glial
 Maintainer: vvzvlad <vvzvlad@gmail.com>
 Priority: optional
 Section: misc
-Filename: pool/main/g/glial/glial_0.74-27-g745352e-night_armhf.deb
-Size: 1224310
-SHA256: 0a2aaca733e1cd801941bba69b50b3333a63109cc514a081f1a8fb9ca945e1e3
-SHA1: 747a131ba4c9ee17724b3ed3ae782e20c70bab9c
-MD5sum: dbfb168820d8b1928653116bc9920e84
+Filename: pool/main/g/glial/glial_0.74-33-g483050f-night_armhf.deb
+Size: 1225158
+SHA256: 06ab39eea6f92793d8cb0d3ac2bbe34d715a3779be32e85ac275900bb16fa293
+SHA1: 5774952d790f35888e97cf438743afe1bc44059d
+MD5sum: 83631daf8e0d41e6bc321e26f339c19d
 Description: IoT management system by Nokia IoT Lab
 Origin: Nokia IoT Laboratory <info@glial.pro>
 Depends: tarantool (>= 1.10.0), libmosquitto-dev, tarantool-dev (>= 1.10.0)
 Homepage: http://glial.pro
 Vcs-Git: git://git@github.com:glial-iot/glial_core.git
 Architecture: armhf
-Version: 0.74-27-g745352e-night
+Version: 0.74-33-g483050f-night
 Installed-Size: 4628
 
